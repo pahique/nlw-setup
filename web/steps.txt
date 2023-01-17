@@ -1,0 +1,9 @@
+npm create vite@latest  (rodar da pasta raiz p/ criar o projeto web)
+
+npm install
+
+npm run dev
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
