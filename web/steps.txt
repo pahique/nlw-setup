@@ -11,3 +11,8 @@ npm i phosphor-react
 
 npm i dayjs
 
+npm install @radix-ui/react-dialog
+npm install @radix-ui/react-popover
+
+npm i clsx
+
