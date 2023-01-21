@@ -16,3 +16,7 @@ npm install @radix-ui/react-popover
 
 npm i clsx
 
+npm install @radix-ui/react-checkbox
+
+npm i axios
+
